@@ -88,7 +88,7 @@
 
 </details>
 <details>
-<summary>📅 2026-03-01 (Step 3. 반복문 6~9번)</summary>
+<summary>📅 2026-03-02 (Step 3. 반복문 6~9번)</summary>
 
 <br>
 
