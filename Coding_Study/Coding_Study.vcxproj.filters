@@ -30,5 +30,20 @@
     <ClCompile Include="Loop_04.cpp">
       <Filter>리소스 파일\Loop</Filter>
     </ClCompile>
+    <ClCompile Include="Loop_05.cpp">
+      <Filter>리소스 파일\Loop</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop_06.cpp">
+      <Filter>리소스 파일\Loop</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop_07.cpp">
+      <Filter>리소스 파일\Loop</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop_08.cpp">
+      <Filter>리소스 파일\Loop</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop_09.cpp">
+      <Filter>리소스 파일\Loop</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
