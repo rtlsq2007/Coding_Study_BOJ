@@ -85,7 +85,6 @@
 출력 형식을 정확히 맞추는 것이 중요하다는 것을 다시 느꼈다.
 
 <br>
-
 </details>
 <details>
 <summary>📅 2026-03-02 (Step 3. 반복문 6~9번)</summary>
