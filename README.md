@@ -256,7 +256,7 @@ C++에서는 `cin >> a >> b` 가 성공하는 동안 반복하도록 작성하�
 
 </details>
 <details>
-<summary>📅 2026-03-05 (Step 6. 배열 1~6번)</summary>
+<summary>📅 2026-03-05 (Step 4. 배열 1~6번)</summary>
 
 ## ✅ 10807 - 개수 세기
 
