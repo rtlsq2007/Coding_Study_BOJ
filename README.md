@@ -256,7 +256,7 @@ C++에서는 `cin >> a >> b` 가 성공하는 동안 반복하도록 작성하�
 
 </details>
 <details>
-<summary><strong>📅 2026-03-06 (Step 4. 배열 7~10번)</strong></summary>
+<summary>📅 2026-03-06 (Step 4. 배열 7~10번)</summary>
 
 <br>
 
