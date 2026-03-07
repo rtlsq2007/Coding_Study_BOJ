@@ -75,5 +75,14 @@
     <ClCompile Include="Array_07.cpp">
       <Filter>리소스 파일\Array</Filter>
     </ClCompile>
+    <ClCompile Include="Array_08.cpp">
+      <Filter>리소스 파일\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_09.cpp">
+      <Filter>리소스 파일\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_10.cpp">
+      <Filter>리소스 파일\Array</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

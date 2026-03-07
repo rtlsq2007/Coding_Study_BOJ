@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    bool n[30] = {};
+    bool n[31] = {};
 
     for (int i = 0; i < 28; i++) {
         int x;
