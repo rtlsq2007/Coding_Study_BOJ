@@ -190,6 +190,22 @@
     <ClCompile Include="Loop_11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">yes</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="String_01.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">yes</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="String_02.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">yes</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="String_03.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">yes</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="String_04.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">yes</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="String_05.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">yes</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="String_06.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

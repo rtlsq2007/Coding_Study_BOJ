@@ -19,6 +19,9 @@
     <Filter Include="리소스 파일\Array">
       <UniqueIdentifier>{b057f5ce-bed9-4f09-96f2-50254c4d06b1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="리소스 파일\String">
+      <UniqueIdentifier>{b5b01082-0385-4a31-a9b3-f0b5ba01396f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Loop_01.cpp">
@@ -83,6 +86,24 @@
     </ClCompile>
     <ClCompile Include="Array_10.cpp">
       <Filter>리소스 파일\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="String_01.cpp">
+      <Filter>리소스 파일\String</Filter>
+    </ClCompile>
+    <ClCompile Include="String_02.cpp">
+      <Filter>리소스 파일\String</Filter>
+    </ClCompile>
+    <ClCompile Include="String_03.cpp">
+      <Filter>리소스 파일\String</Filter>
+    </ClCompile>
+    <ClCompile Include="String_04.cpp">
+      <Filter>리소스 파일\String</Filter>
+    </ClCompile>
+    <ClCompile Include="String_05.cpp">
+      <Filter>리소스 파일\String</Filter>
+    </ClCompile>
+    <ClCompile Include="String_06.cpp">
+      <Filter>리소스 파일\String</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
