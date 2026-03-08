@@ -416,7 +416,7 @@ M번의 명령마다 임시 변수(temp)를 활용하여 두 바구니의 값을
 
 </details>
 <details>
-<summary>📅 2026-03-06 (Step 4. 배열 7~10번)</summary>
+<summary>📅 2026-03-06 (Step 6. 배열 7~10번)</summary>
 
 <br>
 
