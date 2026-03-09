@@ -3,13 +3,15 @@
 using namespace std;
 
 int main() {
+	int count = 0, total;
 	string s;
 
-	cin >> s;
-
-	for (int i = 0; i < 26; i++) {
-		s[i] = -1;
+	while (cin >> s) {
+		count++;
 	}
+
+	cout << count;
+
 
 	return 0;
 }
