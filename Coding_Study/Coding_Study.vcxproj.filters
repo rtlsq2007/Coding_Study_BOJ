@@ -25,6 +25,9 @@
     <Filter Include="리소스 파일\BOJ\Array">
       <UniqueIdentifier>{b057f5ce-bed9-4f09-96f2-50254c4d06b1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="리소스 파일\BOJ\Intensified_01">
+      <UniqueIdentifier>{efc66632-8619-47ec-8dc3-e8528462e45b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Loop_01.cpp">
@@ -125,6 +128,15 @@
     </ClCompile>
     <ClCompile Include="String_12.cpp">
       <Filter>리소스 파일\BOJ\String</Filter>
+    </ClCompile>
+    <ClCompile Include="deep_01.cpp">
+      <Filter>리소스 파일\BOJ\Intensified_01</Filter>
+    </ClCompile>
+    <ClCompile Include="deep_02.cpp">
+      <Filter>리소스 파일\BOJ\Intensified_01</Filter>
+    </ClCompile>
+    <ClCompile Include="deep_03.cpp">
+      <Filter>리소스 파일\BOJ\Intensified_01</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

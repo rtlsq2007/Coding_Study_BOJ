@@ -157,6 +157,16 @@
     <ClCompile Include="Array_10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">yes</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="deep_01.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">yes</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="deep_02.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">yes</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="deep_03.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+      </ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="Loop_01.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">yes</ExcludedFromBuild>
     </ClCompile>
@@ -223,7 +233,9 @@
     <ClCompile Include="String_11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">yes</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="String_12.cpp" />
+    <ClCompile Include="String_12.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">yes</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
