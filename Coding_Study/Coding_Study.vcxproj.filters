@@ -138,5 +138,14 @@
     <ClCompile Include="deep_03.cpp">
       <Filter>리소스 파일\BOJ\Intensified_01</Filter>
     </ClCompile>
+    <ClCompile Include="deep_04.cpp">
+      <Filter>리소스 파일\BOJ\Intensified_01</Filter>
+    </ClCompile>
+    <ClCompile Include="deep_05.cpp">
+      <Filter>리소스 파일\BOJ\Intensified_01</Filter>
+    </ClCompile>
+    <ClCompile Include="deep_06.cpp">
+      <Filter>리소스 파일\BOJ\Intensified_01</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
