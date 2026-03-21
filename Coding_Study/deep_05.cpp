@@ -52,7 +52,6 @@ int main() {
 		cout << "?";
 	}
 	else {
-		// n[i] == max 인 s[i]를 출력
 		for (int i = 0; i < s.length(); i++) {
 			if (n[i] == max) {
 				cout << s[i];
