@@ -1,25 +1,34 @@
 #include <iostream>
-
+#include <string>
 using namespace std;
 
+bool isGroupWord(const string& word) {
+    bool visited[26] = {};
+    char prev = '\0';
+
+    for (char c : word) {
+        if (c != prev) {
+            if (visited[c - 'a']) {
+                return false;
+            }
+            visited[c - 'a'] = true;
+            prev = c;
+        }
+    }
+    return true;
+}
+
 int main() {
-	int n;
-	string s;
-	bool b;
+    int n;
+    cin >> n;
 
-	cin >> n;
+    int count = 0;
+    while (n--) {
+        string word;
+        cin >> word;
+        if (isGroupWord(word)) count++;
+    }
 
-	for (int i = 0; i < n; i++) {
-		cin >> s;
-
-		for (int j = 0; j < s.length(); j++) {
-			for (int k = 0; k < s.length(); k++) {
-				if (s[j] == s[k]) {
-					b = true;
-				}
-			}
-		}
-	}
-
-	return 0;
+    cout << count << '\n';
+    return 0;
 }
