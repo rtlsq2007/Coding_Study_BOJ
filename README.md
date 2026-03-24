@@ -988,7 +988,7 @@ max값을 갱신하며 가장 많이 등장한 알파벳을 추적하였다.
 
 </details>
 <details>
-<summary>📅 2026-03-15 (Step 52. 심화 1 - 7번)</summary>
+<summary>📅 2026-03-15~17 (Step 52. 심화 1 - 7번)</summary>
 
 ## ✅ 1316 - 그룹 단어 체커
 
@@ -1023,7 +1023,7 @@ N개의 단어가 주어질 때, 그룹 단어의 개수를 출력하는 문제�
 
 </details>
 <details>
-<summary>📅 2026-03-16 (Step 52. 심화 1 - 8번)</summary>
+<summary>📅 2026-03-20~24 (Step 52. 심화 1 - 8번)</summary>
 
 ## ✅ 25206 - 너의 평점은
 
